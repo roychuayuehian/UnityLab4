@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &2916579659432235233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4351946464816526327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ba33dc9303dfc46a9813e2de7dc6c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  t: {fileID: 2800000, guid: 19447730857f1674aac14300474f4eed, type: 3}
+--- !u!1001 &7703891966071713746
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.370331
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.815193
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2343015451061235736, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430065000838796635, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300002, guid: cbe738a6b31804fbfa01d65f850d595b, type: 3}
+    - target: {fileID: 6236501067024522277, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+      propertyPath: m_Name
+      value: GreenMushroom Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: -6402237614578405053, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+--- !u!1 &4351946464816526327 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6236501067024522277, guid: 69da1c1160c8b8c48899308a8b1e72dc, type: 3}
+  m_PrefabInstance: {fileID: 7703891966071713746}
+  m_PrefabAsset: {fileID: 0}
